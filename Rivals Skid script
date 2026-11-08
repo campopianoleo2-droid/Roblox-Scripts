@@ -17,7 +17,7 @@ print("TG9hZGluZ1NjcmlwdA")
 local queue_on_teleport = queue_on_teleport or queueonteleport
 if queue_on_teleport then
     queue_on_teleport([[
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/langV6/sleepyhook/refs/heads/main/ue.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/campopianoleo2-droid/Roblox-Scripts/refs/heads/main/Rivals%20Skid%20script"))()
     ]])
 end
 
